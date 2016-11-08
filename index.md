@@ -6,6 +6,6 @@ Dit is de index.
 Deze links worden door Jekyll vanuit Markdown omgezet naar HTML:
 
 - [testje](testje.md)
-- [rlzonderfilenaam](urlzonderfilenaam)
+- [URL zonder filenaam](urlzonderfilenaam)
 
 Opgepast! Als er een `index.html` bestaat in je repo, zal deze voorrang krijgen op `index.md`.
