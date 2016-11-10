@@ -9,3 +9,10 @@ Werkwijze:
 Om met Jekyll ook lokaal (d.w.z. niet op GitHub Pages) dezelfde repo te kunnen gebruiken:
 
 - Zet een `Gemfile` in je repo. Hierin staan de gems die jekyll nodig heeft om een lokale (development) server te starten.
+
+```
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+gem 'execjs'
+gem 'therubyracer'
+```
